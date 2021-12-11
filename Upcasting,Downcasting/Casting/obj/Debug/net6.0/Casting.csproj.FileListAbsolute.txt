@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\Casting.exe
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\Casting.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\ref\Casting.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\ref\Casting.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Nullable,Struct,Upcasting,Downcasting\Upcasting,Downcasting\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
